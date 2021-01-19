@@ -23,7 +23,7 @@ Vue Pinterest Component
 
 |Key|Value|Type|
 |:--|:----|:---|
-|pinID|The pin ID of the contact|String|
+|pinid|The pin ID of the contact|String|
 |size|Size of this element - ["","small","medium","large"]|String|
 |descriptionHide|Show or hide the description of this element|Boolean|
 
@@ -31,11 +31,11 @@ Vue Pinterest Component
 
 |Key|Value|Type|
 |:--|:----|:---|
-|boardUrl|The URL to the contact board|String|
+|boardurl|The URL to the contact board|String|
 |format|Size of this element - ["square","sidebar","header","custom"]|String|
-|scaleHeight|Size of this custom element|String|
-|scaleWidth|Size of this custom element|String|
-|boardWidth|Size of this custom element|String|
+|scaleheight|Size of this custom element|String|
+|scalewidth|Size of this custom element|String|
+|boardwidth|Size of this custom element|String|
 
 ### Pinterest-Profile
 
@@ -43,6 +43,6 @@ Vue Pinterest Component
 |:--|:----|:---|
 |username|The username to the contact|String|
 |format|Size of this element - ["square","sidebar","header","custom"]|String|
-|scaleHeight|Size of this custom element|String|
-|scaleWidth|Size of this custom element|String|
-|boardWidth|Size of this custom element|String|
+|scaleheight|Size of this custom element|String|
+|scalewidth|Size of this custom element|String|
+|boardwidth|Size of this custom element|String|
